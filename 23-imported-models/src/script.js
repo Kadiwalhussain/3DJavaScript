@@ -16,7 +16,7 @@ const canvas = document.querySelector('canvas.webgl')
 const scene = new THREE.Scene()
 
 /**
- * Floor
+ * Floor will update soon more feature will adding....
  */
 const floor = new THREE.Mesh(
     new THREE.PlaneGeometry(10, 10),
