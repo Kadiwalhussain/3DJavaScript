@@ -44,6 +44,8 @@ module.exports = merge(
                 
                 console.log(`Project running at:\n  - ${infoColor(domain1)}\n  - ${infoColor(domain2)}`)
             }
+            
+            upla
         }
     }
 )
